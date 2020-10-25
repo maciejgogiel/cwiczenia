@@ -1,5 +1,5 @@
 // Praca domowa 1 all
-
+/
 //1 Rok przestepny
 let years = [1974, 1900, 1985, 2000];
 let year;
